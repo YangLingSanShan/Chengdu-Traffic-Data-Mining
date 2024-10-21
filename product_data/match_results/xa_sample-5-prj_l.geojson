@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "xa_sample-5-prj_l",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "seq": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04343, 30.68649 ], [ 104.043650611101199, 30.686857579450812 ] ] } },
+{ "type": "Feature", "properties": { "seq": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04277, 30.68597 ], [ 104.04288360000001, 30.6871432 ] ] } },
+{ "type": "Feature", "properties": { "seq": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.042613333333335, 30.687153333333331 ], [ 104.042421602294681, 30.687888851156227 ] ] } },
+{ "type": "Feature", "properties": { "seq": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.042456666666666, 30.688336666666665 ], [ 104.04137453156838, 30.68867178444696 ] ] } },
+{ "type": "Feature", "properties": { "seq": 2 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.0423, 30.68952 ], [ 104.041729112410664, 30.689916492601764 ] ] } },
+{ "type": "Feature", "properties": { "seq": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04233, 30.68962 ], [ 104.041823388872487, 30.690011158098876 ] ] } },
+{ "type": "Feature", "properties": { "seq": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04238, 30.68966 ], [ 104.041868578718748, 30.690054872208957 ] ] } },
+{ "type": "Feature", "properties": { "seq": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04232, 30.68953 ], [ 104.041742610360672, 30.689931008471326 ] ] } },
+{ "type": "Feature", "properties": { "seq": 6 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04213, 30.68956 ], [ 104.041685004016998, 30.689869057826641 ] ] } },
+{ "type": "Feature", "properties": { "seq": 7 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04223, 30.68975 ], [ 104.041853736863786, 30.690040515041073 ] ] } },
+{ "type": "Feature", "properties": { "seq": 8 }, "geometry": { "type": "LineString", "coordinates": [ [ 104.04211, 30.6896 ], [ 104.041699755728899, 30.68988492202789 ] ] } }
+]
+}

@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "xa_sample-5-prj_p",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "seq": 0, "sub_seq": 0, "link_id": 5863, "from_node": 2336, "to_node": 653, "dis_to_next": 80.032708629342096, "route_dis": 145.93065945843676, "match_heading": 319.84 }, "geometry": { "type": "Point", "coordinates": [ 104.043650611101199, 30.686857579450812 ] } },
+{ "type": "Feature", "properties": { "seq": 1, "sub_seq": 0, "link_id": 5865, "from_node": 653, "to_node": 652, "dis_to_next": 421.04265770383597, "route_dis": 0.0, "match_heading": 21.73 }, "geometry": { "type": "Point", "coordinates": [ 104.04288360000001, 30.6871432 ] } },
+{ "type": "Feature", "properties": { "seq": 1, "sub_seq": 1, "link_id": 623, "from_node": 652, "to_node": 156, "dis_to_next": null, "route_dis": 68.987628781882293, "match_heading": null }, "geometry": { "type": "Point", "coordinates": [ 104.042421602294681, 30.687888851156227 ] } },
+{ "type": "Feature", "properties": { "seq": 1, "sub_seq": 2, "link_id": 628, "from_node": 156, "to_node": 154, "dis_to_next": null, "route_dis": 63.675368981793987, "match_heading": null }, "geometry": { "type": "Point", "coordinates": [ 104.04137453156838, 30.68867178444696 ] } },
+{ "type": "Feature", "properties": { "seq": 2, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 13.847121320874109, "route_dis": 117.54265770383599, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041729112410664, 30.689916492601764 ] } },
+{ "type": "Feature", "properties": { "seq": 3, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 6.4967958993578918, "route_dis": 131.38977902471009, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041823388872487, 30.690011158098876 ] } },
+{ "type": "Feature", "properties": { "seq": 4, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 18.279983805313591, "route_dis": 137.88657492406799, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041868578718748, 30.690054872208957 ] } },
+{ "type": "Feature", "properties": { "seq": 5, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 8.8084276095332115, "route_dis": 119.60659111875439, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041742610360672, 30.689931008471326 ] } },
+{ "type": "Feature", "properties": { "seq": 6, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 24.954647277653521, "route_dis": 110.79816350922118, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041685004016998, 30.689869057826641 ] } },
+{ "type": "Feature", "properties": { "seq": 7, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": 22.699002508905011, "route_dis": 135.7528107868747, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041853736863786, 30.690040515041073 ] } },
+{ "type": "Feature", "properties": { "seq": 8, "sub_seq": 0, "link_id": 125, "from_node": 154, "to_node": 155, "dis_to_next": null, "route_dis": 113.05380827796969, "match_heading": 39.28 }, "geometry": { "type": "Point", "coordinates": [ 104.041699755728899, 30.68988492202789 ] } }
+]
+}

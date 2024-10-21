@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "xa_sample-2-gps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "seq": 0, "sub_seq": 0, "loc_type": "s" }, "geometry": { "type": "Point", "coordinates": [ 104.04374, 30.72285 ] } },
+{ "type": "Feature", "properties": { "seq": 1, "sub_seq": 0, "loc_type": "s" }, "geometry": { "type": "Point", "coordinates": [ 104.04591, 30.72447 ] } },
+{ "type": "Feature", "properties": { "seq": 1, "sub_seq": 1, "loc_type": "c" }, "geometry": { "type": "Point", "coordinates": [ 104.04748, 30.724895 ] } },
+{ "type": "Feature", "properties": { "seq": 2, "sub_seq": 0, "loc_type": "s" }, "geometry": { "type": "Point", "coordinates": [ 104.04905, 30.72532 ] } }
+]
+}
