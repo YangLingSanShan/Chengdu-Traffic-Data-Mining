@@ -64,3 +64,8 @@ product_data下为任务一预处理的数据，以及路网匹配的结果
 
 ## task3
 
+## task 4
+
+现在构建了两个demo 一个bert 一个bilstm，感觉可以考虑用一下transformer，不太明白“轨迹”这个问题算不算“上下文无关”，如果无关，感觉transformer效果可能更好。
+
+但是bert和transformer训练时间太长了，1个epoch需要15mins左右（现在是200个），考虑减少一下epoch数量？
